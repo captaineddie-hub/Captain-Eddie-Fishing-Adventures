@@ -1,1 +1,3 @@
-# Captain-Eddie-Fishing-Adventures
+# Captain Eddie Fishing Adventures
+
+Playable web build (lake bass, offshore trolling, surf, kayak). Play in landscape on phone or desktop.
