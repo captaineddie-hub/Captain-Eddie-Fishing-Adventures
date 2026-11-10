@@ -1,0 +1,37 @@
+TITLE: Captain Eddie Fishing Adventures
+SHORT DESCRIPTION (tagline): Cast from first person, watch the bite underwater. Bass lake, Gulf Stream marlin, surf and kayak fishing with real fish-fight physics.
+CLASSIFICATION: Game · GENRE: Sports · KIND: HTML
+TAGS: fishing, simulation, bass-fishing, 3d, sports, ocean, arcade, retro, first-person
+EMBED: 1280 x 720 · Mobile friendly ON (landscape) · Fullscreen button ON · SharedArrayBuffer OFF
+VISIBILITY (while testing): Restricted, with a password
+
+--- DESCRIPTION ---
+Grab your rod and climb aboard with Captain Eddie, a Carolina coast storyteller, chaos manager and wildlife whisperer.
+
+Captain Eddie Fishing Adventures brings back the "one more cast" feel of the classic fishing games, The Black Bass and Saltwater Sportfishing, and builds it on modern fish-fight physics. You cast from first person with the rod in your hands, then watch the lure and the fish underwater. Every fish runs, jumps, dives for cover and tires out on its own. Your drag, line and timing decide whether it hits the livewell or snaps you off.
+
+LAKE: BASS TOUR
+Run the boat across Pine Ridge Reservoir, read the sonar and the overhead map, and cast to docks, timber, weed beds and lily pads. Work a popper, crankbait or Texas-rig worm, watch the bass follow your lure underwater, and set the hook on the bite. Fill a 5-fish limit before the 2 PM weigh-in. Bass have moods: bold, shy and lazy fish react differently, and the weather changes how they feed.
+
+OFFSHORE: GULF STREAM TROLLING
+Set a 7-rod spread, troll the weed lines and temperature breaks, and react to the knockdown: drop back for billfish, push the throttle for tuna. Then take the rod from the chair and fight a marlin or sailfish with an underwater fish-cam, a drag you can feel, and the captain backing down. Target mahi, wahoo, kingfish, yellowfin, sailfish and blue marlin.
+
+SURF: TOPSAIL FALL RUN
+Drive the Jeep down the beach, plant your rods in the sand and cast into the troughs for red drum, bluefish and pompano. Switch to the underwater trough view to watch fish find your bait.
+
+KAYAK: NEARSHORE SLEIGH RIDE
+Paddle out through the breakers, find the bait and birds, and hook up. A big fish will tow the kayak across the water, so lean to steer, watch the heel and don't flip.
+
+FEATURES
+- First-person casting and fights, with underwater cut-ins
+- Fish-fight physics: drag, line strength, pumping and side pressure all matter
+- Photoreal fish with a 3D catch card for every catch
+- Four modes: lake, offshore, surf and kayak
+- Original retro chiptune soundtrack and classic fishing sound effects
+- Tournament and practice modes, a record book and personal bests
+- Built for phones, tablets and desktop. Play in landscape.
+
+CONTROLS
+Touch: on-screen buttons. Keyboard: WASD drive · Space reel · F twitch · W lift rod · [ ] drag · Enter cast / set hook · V or Tab switch view
+
+This is an early test build. Tell us what you think in the comments!
