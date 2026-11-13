@@ -1,37 +1,39 @@
 TITLE: Captain Eddie Fishing Adventures
-SHORT DESCRIPTION (tagline): Cast from first person, watch the bite underwater. Bass lake, Gulf Stream marlin, surf and kayak fishing with real fish-fight physics.
+SHORT DESCRIPTION (tagline): Cast in first person, then watch from above or below as the fish come to your bait. Bass lake, Gulf Stream trolling and surf fishing, with online tournaments.
 CLASSIFICATION: Game · GENRE: Sports · KIND: HTML
-TAGS: fishing, simulation, bass-fishing, 3d, sports, ocean, arcade, retro, first-person
-EMBED: 1280 x 720 · Mobile friendly ON (landscape) · Fullscreen button ON · SharedArrayBuffer OFF
-VISIBILITY (while testing): Restricted, with a password
+UPLOAD: captain-eddie-fishing-web.zip → check "This file will be played in the browser"
+EMBED: 1280 x 720 · Mobile friendly ON (landscape) · Fullscreen button ON · SharedArrayBuffer OFF · Automatically start on page load OFF
+TAGS: fishing, simulation, bass-fishing, 3d, sports, ocean, retro, first-person, multiplayer
+COVER: cover_630x500.png · SCREENSHOTS: screenshots/ folder
+VISIBILITY (while testing): Restricted, with a password. Switch to Public when ready.
 
 --- DESCRIPTION ---
 Grab your rod and climb aboard with Captain Eddie, a Carolina coast storyteller, chaos manager and wildlife whisperer.
 
-Captain Eddie Fishing Adventures brings back the "one more cast" feel of the classic fishing games, The Black Bass and Saltwater Sportfishing, and builds it on modern fish-fight physics. You cast from first person with the rod in your hands, then watch the lure and the fish underwater. Every fish runs, jumps, dives for cover and tires out on its own. Your drag, line and timing decide whether it hits the livewell or snaps you off.
+Captain Eddie Fishing Adventures brings back the "one more cast" feel of two classic fishing games, The Black Bass and Saltwater Sportfishing, on modern fish-fight physics. Cast in first person with the rod in your hands. Then switch views anytime: ROD, BELOW (underwater) or ABOVE (overhead). Watch the fish notice your lure, follow it, inspect it, nip it, and strike or spook. Every fish runs, jumps, dives for cover and tires out on its own. Your drag, line and timing decide whether it hits the livewell or snaps you off.
 
 LAKE: BASS TOUR
-Run the boat across Pine Ridge Reservoir, read the sonar and the overhead map, and cast to docks, timber, weed beds and lily pads. Work a popper, crankbait or Texas-rig worm, watch the bass follow your lure underwater, and set the hook on the bite. Fill a 5-fish limit before the 2 PM weigh-in. Bass have moods: bold, shy and lazy fish react differently, and the weather changes how they feed.
+Run the boat across Pine Ridge Reservoir and cast to docks, timber, rock piles, weed beds and lily pads. Work a popper, crankbait, spinnerbait, worm or jig. Largemouth, smallmouth, spotted bass, crappie and catfish live their own lives under the surface. Read their reactions from above or below and set the hook on the bite. Fill a 5-fish limit before weigh-in.
 
 OFFSHORE: GULF STREAM TROLLING
-Set a 7-rod spread, troll the weed lines and temperature breaks, and react to the knockdown: drop back for billfish, push the throttle for tuna. Then take the rod from the chair and fight a marlin or sailfish with an underwater fish-cam, a drag you can feel, and the captain backing down. Target mahi, wahoo, kingfish, yellowfin, sailfish and blue marlin.
+Run to the weed lines and current edge, set your spread and watch the finder and birds. When the clicker screams, GRAB THE ROD, then pump and wind while the captain backs down. Fight mahi, wahoo, kingfish, yellowfin, sailfish and blue marlin, then gaff at the boat.
 
 SURF: TOPSAIL FALL RUN
-Drive the Jeep down the beach, plant your rods in the sand and cast into the troughs for red drum, bluefish and pompano. Switch to the underwater trough view to watch fish find your bait.
+Drive the Jeep anywhere on the beach, around and under the pier. Read the sloughs, rips and birds, plant your rods and cast into the troughs for red drum, bluefish, pompano, Spanish mackerel and more. Tap to crank, and slide your fish up the wash on a wave. Ghost crabs, sanderlings, pelicans, mullet and dolphins share the beach with you.
 
-KAYAK: NEARSHORE SLEIGH RIDE
-Paddle out through the breakers, find the bait and birds, and hook up. A big fish will tow the kayak across the water, so lean to steer, watch the heel and don't flip.
+ONLINE SURF TOURNAMENTS
+A Daily Surf Derby every day and the Topsail Surf Classic every weekend. Everyone fishes the same seeded water, every fish you land is weighed in live, and your best 3 fish count. Create a private league, text the invite code to your crew, and chat during the tournament. Live leaderboards: captain-eddie-tournaments.lovable.app
 
 FEATURES
-- First-person casting and fights, with underwater cut-ins
+- First-person casting and fights, plus ROD / BELOW / ABOVE views like the classics
+- Fish AI you can read: notice, follow, inspect, nip, strike, spook
+- Real 3D fish for 20 species, and a catch card for every fish
 - Fish-fight physics: drag, line strength, pumping and side pressure all matter
-- Photoreal fish with a 3D catch card for every catch
-- Four modes: lake, offshore, surf and kayak
-- Original retro chiptune soundtrack and classic fishing sound effects
-- Tournament and practice modes, a record book and personal bests
-- Built for phones, tablets and desktop. Play in landscape.
+- Tackle shop, tournament ladder, fish book and trophy room
+- Online tournaments, private leagues and chat
+- Play on phone, tablet, desktop or TV (screen mirroring). Play in landscape.
 
 CONTROLS
-Touch: on-screen buttons. Keyboard: WASD drive · Space reel · F twitch · W lift rod · [ ] drag · Enter cast / set hook · V or Tab switch view
+Touch: on-screen buttons. Keyboard: WASD drive · Space reel · F twitch · W lift rod · [ ] drag · Enter cast / set hook · 1 2 3 or V switch views
 
-This is an early test build. Tell us what you think in the comments!
+Kayak fishing is coming in a future update. This is an early build. Tell us what you think in the comments!
