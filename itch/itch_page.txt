@@ -1,0 +1,61 @@
+TITLE: Salt & Sound Sportfishing
+SHORT DESCRIPTION (tagline):
+Real Topsail Island fishing with live weather and daily online tournaments. Fight bulls in the surf, kings off the pier and mahi in the Gulf Stream, then climb the leaderboard against your crew.
+CLASSIFICATION: Game · GENRE: Sports · KIND: HTML
+UPLOAD: salt-sound-sportfishing-web.zip → check "This file will be played in the browser"
+EMBED: 1280 x 720 · Mobile friendly ON (landscape) · Fullscreen button ON · SharedArrayBuffer OFF · Automatically start on page load OFF
+PRICING: $0 or donate (suggested $3)
+TAGS: fishing, simulation, sports, 3d, first-person, ocean, bass-fishing, pier-fishing, multiplayer, retro
+COVER: cover_630x500.png · SCREENSHOTS: screenshots/ folder · TRAILER: upload salt_sound_sportfishing_trailer.mp4 to YouTube, paste the link
+VISIBILITY (while testing): Restricted, with a password. Switch to Public when ready.
+
+--- DESCRIPTION ---
+THE BITE IS ON. THE WEATHER IS REAL. THE LEADERBOARD IS LIVE.
+
+Salt & Sound Sportfishing puts a rod in your hands on Topsail Island, North Carolina. Your host is Captain Eddie, a real Surf City captain. The wind, waves, water temperature and tide come from today's actual Topsail conditions. If the drum are running on the island, they're running in the game.
+
+Feel every fish. Cast in first person, then flip to the underwater view and watch a red drum find your bait, nose it, tap it... and take off. Fish run, jump, dive for the pilings and wear down on their own. Your drag, line and nerve decide whether you land it or snap off. It's the "one more cast" feel of the classic Black Bass and Saltwater Sportfishing games, rebuilt with modern fight physics.
+
+COMPETE EVERY DAY
+- DAILY SURF DERBY + DAILY PIER DERBY: new tournaments every day, open to everyone
+- WEEKEND CLASSICS: the Topsail Surf Classic and the Surf City Pier Classic
+- FAIR WATER: every angler fishes the same seeded conditions. Your best 3 fish count, and every catch is weighed in live
+- LIVE LEADERBOARDS: watch the standings move in real time, in the game or on the web
+- PRIVATE LEAGUES: start a league, text the code to your buddies, and trash-talk in league chat while you fish
+- TIMED CHALLENGES: Bluefish Blitz, Slot Red, Spot Run, King at the End, Birds Working, Wreck Run. Beat the clock for bonus points and cash
+- PLAY ANYWHERE: sign in with just your email (a 6-digit code, no password) and your progress follows you from phone to tablet to PC
+
+FOUR WAYS TO FISH
+PIER: Three real Topsail piers: Surf City, Jolly Roger and Seaview. Walk the deck, pick your spot at the rail, and drop for sheepshead on the pilings or soak a bait off the end for kings and big drum. Your rods stay in the holders while you walk around, and other anglers fish the rail beside you.
+SURF: Drive the Jeep down the beach, read the sloughs, rips and birds, and plant your rods in the trough for red drum, bluefish, pompano, Spanish, spot and croaker. Slide your fish up the wash on a wave.
+OFFSHORE: Run to the Gulf Stream weed lines and the real wrecks off Topsail. When the clicker screams, GRAB THE ROD and go to work on mahi, wahoo, kings, yellowfin, sailfish and blue marlin while the captain backs down.
+LAKE: Run the bass boat across Pine Ridge Reservoir, throw poppers, cranks, worms and jigs at docks, timber and lily pads, and fill a 5-fish limit before weigh-in.
+
+LOADED FOR A BETA
+- 30 species in real 3D, each with its own fight and its own catch card
+- ROD / BELOW / ABOVE views: see the fish see your bait
+- Captain Eddie's daily fishing report, built from the real water temp, wind, surf, tide and season
+- Tackle shop, record book, trophy room and fish book
+- MY ANGLER: play as a man or woman, pick your look, and rep your Salt & Sound shirt (the one you buy in the shop is the one on your sleeves)
+- Free to play, no account needed. Phone, tablet, PC or TV. Play in landscape
+
+FREE TO PLAY · DONATIONS BUILD THE NEXT SPOT
+Every donation goes straight into new water:
+- New lakes and rivers, each with its own fish and structure
+- The sound: marsh, creeks and inlets for reds, specks and flounder from a skiff
+- More coastline and more real piers up and down the Carolinas
+- Live multiplayer: fish the same pier with your friends in real time
+- More species, more tournaments and more gear
+Pay what you want. Even $3 helps.
+
+IN FUTURE DEVELOPMENT: kayak fishing on the nearshore reefs.
+
+BETA: the game is growing fast. Jump in today's derby, then tell us in the comments where you want to fish next!
+
+CONTROLS
+Touch: on-screen buttons. Keyboard: WASD drive · Space reel · F twitch · W lift rod · [ ] drag · Enter cast / set hook · 1 2 3 or V switch views
+
+Live leaderboards: https://captain-eddie-tournaments.lovable.app
+
+CREDITS
+Inshore fish skins (sheepshead, black drum, speckled trout, flounder) adapted from specimen photos by Robert Aguilar / Smithsonian Environmental Research Center (CC BY 2.0) and J. Deeds / U.S. FDA (public domain). Gag grouper skin adapted from a photo by Robert Aguilar / SERC (CC BY 2.0). Reel and drag sounds from Pixabay.

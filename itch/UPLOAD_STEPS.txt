@@ -1,0 +1,27 @@
+SALT & SOUND SPORTFISHING: itch.io upload
+
+1. itch.io > Dashboard > Create new project (or Edit your existing one)
+2. Title: Salt & Sound Sportfishing
+   Project URL: salt-sound-sportfishing (suggested)
+   Kind of project: HTML
+   Classification: Game · Genre: Sports
+3. Uploads: upload salt-sound-sportfishing-web.zip (NOT this kit zip)
+   check "This file will be played in the browser"
+4. Embed options:
+   Viewport 1280 x 720 · Mobile friendly ON (landscape)
+   Fullscreen button ON · Automatically start on page load OFF
+   SharedArrayBuffer support OFF (not needed)
+5. Pricing: "$0 or donate", suggested $3
+6. Short description + Description: copy from itch_page.txt
+7. Cover image: cover_630x500.png
+8. Gameplay video: upload salt_sound_sportfishing_trailer.mp4 to YouTube, paste the link
+9. Screenshots: everything in the screenshots folder (20 images)
+10. Edit theme: banner_960x300.png as the header (or banner_1920x600.png for a sharper one), background_1920x1080.jpg as the background
+    (page_graphics folder). Suggested colors: background #0B2230, text #ECF2F0, links #FFDB80
+11. Tags: fishing, simulation, sports, 3d, first-person, ocean, bass-fishing,
+    pier-fishing, multiplayer, retro
+12. Visibility: Restricted (password) while testing, then Public.
+
+Online tournaments + leaderboards: https://captain-eddie-tournaments.lovable.app
+Game also playable at: https://captaineddie-hub.github.io/Captain-Eddie-Fishing-Adventures/
+To update later: upload the new salt-sound-sportfishing-web.zip and delete the old one.
